@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tvrJonesy
-- 👀 I’m interested in WEbex Device Macros
+- 👀 I’m interested in Webex Device Macros
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on WEbex DEviceMacros
 - 📫 How to reach me grjonesuk@gmail.com
